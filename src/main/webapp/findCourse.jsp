@@ -42,7 +42,12 @@
       course.setFees(rs.getInt(5));
       course.setDescription(rs.getString(6));
   }
-	
+  rs.close();
+  sql = "select Rating from Ratings where courseTitle='" + courseName + "' and userName='" + userName + "'";
+  rs = stmt.executeQuery(sql);
+  if(rs.next()){
+	  course.setUserRating(rs.getInt("Rating"));
+  }
 </jsp:scriptlet>
 <jsp:forward page="viewCourse.jsp"/>
 <%
