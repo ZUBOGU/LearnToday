@@ -30,8 +30,7 @@ INSERT INTO `mydb`.`course` (`CourseID`, `CourseTitle`, `Trainer`, `ImageUrl`, `
 INSERT INTO `mydb`.`course` (`CourseID`, `CourseTitle`, `Trainer`, `ImageUrl`, `Fees`, `CourseDescription`) VALUES ('2', 'ASP.NET MVC', 'zubo', './images/aspmvc.png', '3499', 'ASP.NET MVC is …');
 INSERT INTO `mydb`.`course` (`CourseID`, `CourseTitle`, `Trainer`, `ImageUrl`, `Fees`, `CourseDescription`) VALUES ('3', 'ASP.NET', 'ZUBO', './images/aspnet.png', '3000', 'ASP.NET is ..');
 INSERT INTO `mydb`.`course` (`CourseID`, `CourseTitle`, `Trainer`, `ImageUrl`, `Fees`, `CourseDescription`) VALUES ('4', 'C#.NET', 'ZUBO', './images/csharp.png', '3000', 'C# is ..');
-INSERT INTO `mydb`.`course` (`CourseID`, `CourseTitle`, `Trainer`, `ImageUrl`, `Fees`, `CourseDescription`) 
-VALUES ('5', 'Xamarin.Forms', 'Zubo	', './images/forms.png', '9999', 'Xamarin,Forms is ..');
+INSERT INTO `mydb`.`course` (`CourseID`, `CourseTitle`, `Trainer`, `ImageUrl`, `Fees`, `CourseDescription`) VALUES ('5', 'Xamarin.Forms', 'Zubo	', './images/forms.png', '9999', 'Xamarin,Forms is ..');
 INSERT INTO `mydb`.`course` (`CourseID`, `CourseTitle`, `Trainer`, `ImageUrl`, `Fees`, `CourseDescription`) VALUES ('6', 'Xamarin.IOS', 'zubo', './images/ios.png', '12999', 'Xamarin.IOS is ..');
 INSERT INTO `mydb`.`course` (`CourseID`, `CourseTitle`, `Trainer`, `ImageUrl`, `Fees`, `CourseDescription`) VALUES ('7', 'JDBC', 'ZUBO', './images/jdbc.png', '8999', 'JDBC is ..');
 INSERT INTO `mydb`.`course` (`CourseID`, `CourseTitle`, `Trainer`, `ImageUrl`, `Fees`, `CourseDescription`)VALUES ('8', 'JSP', 'Zubo', './images/jsp.png', '9999', 'JavaServer Pages(JSP) is a …');

@@ -22,6 +22,7 @@
 	  out.print("<h1>Oops!... <br>" + errorMessage + "</h1> </center>");
 %>
 </div>
+<a href="javascript:history.back()" class="btn btn-lg btn-warning">Go Back</a>
 </article>
 
 <footer>
