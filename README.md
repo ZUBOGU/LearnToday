@@ -1,5 +1,5 @@
 # LearnToday
-Web based applications using Java Server Pages(JSP), MySQL, JDBC, Tomcat
+Build web application with register, login, view, search and rating courses functions by using Java Server Pages(JSP), JDBC, MySQL(Database), Tomcat(Web Container)
 
 ![Optional Text](pics/index.png)
 ![Optional Text](pics/courses.png)
