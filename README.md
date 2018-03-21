@@ -1,6 +1,10 @@
 # LearnToday
 Web based applications using Java Server Pages(JSP), MySQL, JDBC, Tomcat
 
+![Optional Text](pics/index.png)
+![Optional Text](pics/courses.png)
+![Optional Text](pics/course.png)
+
 ## LearnToday Project Notes (How to run the web application)
 Use bootstrap CDN(content delivery network) for the application.
 
